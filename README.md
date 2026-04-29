@@ -1,5 +1,8 @@
-#Task Board Manager
->Sistema de Gerenciamento de Boards
+# 📋 TaskBoard Manager - Java Fundamentals
+> Sistema de gerenciamento de tarefas via terminal com persistência em banco de dados.
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 O Task Board Manager é uma aplicação de console desenvolvida em Java que permite a gestão completa de tarefas através de boards customizáveis. 
 O sistema simula um fluxo de trabalho profissional (estilo Kanban) com regras rígidas de movimentação, bloqueio e persistência em banco de dados MySQL.
